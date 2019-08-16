@@ -1,4 +1,4 @@
-# Papa - Fullstack Engineer Takehome Assignment
+# Papa - Fizzbuzz API
 
 To start the API:
 
