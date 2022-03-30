@@ -10,7 +10,7 @@ gem 'weak_parameters'
 gem 'pry', '~> 0.12.2'
 gem 'rails', '~> 5.2.3'
 gem 'sqlite3'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 group :development, :test do
